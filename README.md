@@ -31,7 +31,7 @@ This application consists of a backend server and a frontend interface for manag
 - Allows users to edit fields inline and save changes back to the server.
 
 ### How to Run
-1. Navigate to the frontend directory: `cd src`
+1. Navigate to the frontend directory: `cd editable-table` `cd src`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Application runs on `http://localhost:3000`
